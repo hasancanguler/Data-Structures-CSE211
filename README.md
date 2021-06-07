@@ -16,4 +16,4 @@
 
 8     : Reverse queue with recursive function
 
-9     : convert graph to adjacencies matrix wtih deep first search
+9     : Convert graph to adjacencies matrix wtih deep first search
