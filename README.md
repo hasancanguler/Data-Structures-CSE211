@@ -13,3 +13,5 @@
 6.cpp : LinkedList and Operations (Add,Delete,Find,List)
 
 7     : Reverse text with stack
+
+8     : Reverse queue with recursive function
