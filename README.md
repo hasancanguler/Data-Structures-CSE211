@@ -15,3 +15,5 @@
 7     : Reverse text with stack
 
 8     : Reverse queue with recursive function
+
+9     : convert graph to adjacencies matrix wtih deep first search
