@@ -11,3 +11,5 @@
 5.cpp : Vector
 
 6.cpp : LinkedList and Operations (Add,Delete,Find,List)
+
+7     : Reverse text with stack
